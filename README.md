@@ -50,9 +50,11 @@ Compared to my previous projects, this one helped me to:
 - 🏢 Adult Census Project: Took the next step — EDA, pipelines, multiple encoding methods, duplicate handling — preparing a large, real-world socio-economic dataset.
 ---
 ## 💯 Next Steps to Practice As A Data Scientist
-- web scraping
-  * use web scraping to collect my own data and make a nice ML-Model out of it
-- use sql
-  * specialy for data analysis and data cleaning
-- end-to-end project
-  * Use `webscraping`, `sql` and `python` to create my first end-to-end project. 
+- **Web Scraping**  
+  Collect my own dataset from the web and build a meaningful ML model.  
+- **SQL for Data Analysis**  
+  Practice SQL queries for advanced data cleaning and exploration.  
+- **End-to-End Project**  
+  Combine **web scraping + SQL + Python** into a complete ML pipeline, from raw data collection to model deployment.  
+
+---
